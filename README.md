@@ -1,7 +1,7 @@
 ## Sophie Obomighie
 
 Hello!🤠
-Sophie Obomighie is a software developer based in Lagos, Nigeria. She mainl uses .net technologies for her work but is open to learning new technologies. 
+Sophie Obomighie is a backend developer based in Lagos, Nigeria. She mainly uses .net technologies for her work but is open to learning new technologies. 
 
 ### Support or Contact
 
