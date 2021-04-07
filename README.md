@@ -11,4 +11,4 @@ You can reach her at Sophieobomighie @ outlook .com.
 🐦 Twitter : [@Obomighiesophie](https://twitter.com/ObomighieSophie) <br>
 ✍🏾 Medium : [Ochuwa-sophie](https://medium.com/@ochuwa-sophie) <br>
 🗣 Technical talks : [Entity Framework](https://www.youtube.com/watch?v=DMpPobhB514&t=9s)  
-                  [A beginner's introduction to building APIs using .net](https://www.youtube.com/watch?v=ekezoV4DcNA) .
+                      [A beginner's introduction to building APIs using .net](https://www.youtube.com/watch?v=ekezoV4DcNA) .
