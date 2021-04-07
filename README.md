@@ -1,7 +1,7 @@
 ## Sophie Obomighie
 
 Hello!🤠
-I am Sophie Obomighie. A software developer based in Lagos, Nigeria. I mainly use .net technologies including asp.net core MVC. 
+I am Sophie Obomighie. A software developer based in Lagos, Nigeria 🇳🇬 . I mainly use .net technologies including asp.net core MVC. 
 This is my [Linkedin](https://www.linkedin.com/in/sophieobomighie/).
 
 ### Support or Contact
