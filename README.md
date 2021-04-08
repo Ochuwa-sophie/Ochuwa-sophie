@@ -6,7 +6,7 @@ This is my [Linkedin](https://www.linkedin.com/in/sophieobomighie/).
 
 ### Support or Contact
 
-You can reach her at Sophieobomighie @ outlook .com.
+You can reach me at Sophieobomighie @ outlook .com.
 
 🐦 Twitter : [@Obomighiesophie](https://twitter.com/ObomighieSophie) <br>
 ✍🏾 Medium : [Ochuwa-sophie](https://medium.com/@ochuwa-sophie) <br>
