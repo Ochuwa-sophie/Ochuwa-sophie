@@ -1,7 +1,7 @@
 ## Sophie Obomighie
 
 Hello!🤠
-I am Sophie Obomighie. A software developer/tester based in the Federal Capital Territory, Nigeria 🇳🇬 . I mainly use .net technologies including asp.net core MVC. 
+I am Sophie Obomighie. A software tester based in the Federal Capital Territory, Nigeria 🇳🇬 .
 This is my [Linkedin](https://www.linkedin.com/in/sophieobomighie/).
 
 ### Support or Contact
